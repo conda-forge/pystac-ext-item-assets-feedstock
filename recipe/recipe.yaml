@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.1"
+  version: "1.0.2"
 
 package:
   name: pystac-ext-item-assets
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/p/pystac-ext-item-assets/pystac_ext_item_assets-${{ version }}.tar.gz
-  sha256: 0a69d0c19e56ff481bbc5bf652639a99f084e30a1307a29b45aeedaf9a1611aa
+  sha256: add715d7901538209d3510b1da0646e7bde0bf53146bb769dd71120daf8f891d
 
 build:
   number: 0
